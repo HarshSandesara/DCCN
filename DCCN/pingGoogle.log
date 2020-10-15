@@ -1,0 +1,66 @@
+PING google.com (142.250.67.142) 64(92) bytes of data.
+72 bytes from bom12s06-in-f14.1e100.net (142.250.67.142): icmp_seq=1 ttl=118 time=23.6 ms
+72 bytes from bom12s06-in-f14.1e100.net (142.250.67.142): icmp_seq=2 ttl=118 time=28.1 ms
+72 bytes from bom12s06-in-f14.1e100.net (142.250.67.142): icmp_seq=3 ttl=118 time=891 ms
+72 bytes from bom12s06-in-f14.1e100.net (142.250.67.142): icmp_seq=4 ttl=118 time=75.2 ms
+72 bytes from bom12s06-in-f14.1e100.net (142.250.67.142): icmp_seq=6 ttl=118 time=309 ms
+72 bytes from bom12s06-in-f14.1e100.net (142.250.67.142): icmp_seq=7 ttl=118 time=40.7 ms
+72 bytes from bom12s06-in-f14.1e100.net (142.250.67.142): icmp_seq=8 ttl=118 time=20.8 ms
+72 bytes from bom12s06-in-f14.1e100.net (142.250.67.142): icmp_seq=9 ttl=118 time=24.1 ms
+
+--- google.com ping statistics ---
+10 packets transmitted, 8 received, 20% packet loss, time 9010ms
+rtt min/avg/max/mdev = 20.794/176.532/890.640/284.858 ms
+PING google.com (142.250.67.142) 100(128) bytes of data.
+
+
+Pinging google.com [142.250.67.142] with 100 bytes of data:
+Reply from 142.250.67.142: bytes=68 (sent 100) time=5ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 100) time=5ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 100) time=7ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 100) time=6ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 100) time=5ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 100) time=5ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 100) time=5ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 100) time=8ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 100) time=5ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 100) time=7ms TTL=119
+
+Ping statistics for 142.250.67.142:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 8ms, Average = 5ms
+
+Pinging google.com [142.250.67.142] with 500 bytes of data:
+Reply from 142.250.67.142: bytes=68 (sent 500) time=5ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 500) time=5ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 500) time=4ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 500) time=5ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 500) time=5ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 500) time=5ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 500) time=4ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 500) time=5ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 500) time=9ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 500) time=15ms TTL=119
+
+Ping statistics for 142.250.67.142:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 15ms, Average = 6ms
+
+Pinging google.com [142.250.67.142] with 1000 bytes of data:
+Reply from 142.250.67.142: bytes=68 (sent 1000) time=8ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 1000) time=6ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 1000) time=5ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 1000) time=8ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 1000) time=6ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 1000) time=4ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 1000) time=6ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 1000) time=6ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 1000) time=5ms TTL=119
+Reply from 142.250.67.142: bytes=68 (sent 1000) time=6ms TTL=119
+
+Ping statistics for 142.250.67.142:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 8ms, Average = 6ms

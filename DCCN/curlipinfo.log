@@ -1,0 +1,12 @@
+{
+  "ip": "129.64.99.200",
+  "hostname": "websrv-prod.unet.brandeis.edu",
+  "city": "Waltham",
+  "region": "Massachusetts",
+  "country": "US",
+  "loc": "42.3765,-71.2356",
+  "org": "AS10561 Brandeis University",
+  "postal": "02453",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+}

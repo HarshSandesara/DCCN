@@ -1,0 +1,49 @@
+
+Pinging google.com [142.250.67.142] with 64 bytes of data:
+Reply from 142.250.67.142: bytes=64 time=6ms TTL=120
+Reply from 142.250.67.142: bytes=64 time=59ms TTL=120
+Reply from 142.250.67.142: bytes=64 time=5ms TTL=120
+Reply from 142.250.67.142: bytes=64 time=5ms TTL=120
+Reply from 142.250.67.142: bytes=64 time=5ms TTL=120
+Reply from 142.250.67.142: bytes=64 time=137ms TTL=120
+Reply from 142.250.67.142: bytes=64 time=5ms TTL=120
+Reply from 142.250.67.142: bytes=64 time=5ms TTL=120
+Reply from 142.250.67.142: bytes=64 time=10ms TTL=120
+Reply from 142.250.67.142: bytes=64 time=10ms TTL=120
+
+Ping statistics for 142.250.67.142:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 137ms, Average = 24ms
+
+Pinging google.com [142.250.67.142] with 100 bytes of data:
+Reply from 142.250.67.142: bytes=68 (sent 100) time=8ms TTL=120
+Reply from 142.250.67.142: bytes=68 (sent 100) time=7ms TTL=120
+Reply from 142.250.67.142: bytes=68 (sent 100) time=5ms TTL=120
+Request timed out.
+Reply from 142.250.67.142: bytes=68 (sent 100) time=5ms TTL=120
+Reply from 142.250.67.142: bytes=68 (sent 100) time=5ms TTL=120
+Reply from 142.250.67.142: bytes=68 (sent 100) time=5ms TTL=120
+Reply from 142.250.67.142: bytes=68 (sent 100) time=5ms TTL=120
+Reply from 142.250.67.142: bytes=68 (sent 100) time=5ms TTL=120
+Reply from 142.250.67.142: bytes=68 (sent 100) time=5ms TTL=120
+
+Ping statistics for 142.250.67.142:
+    Packets: Sent = 10, Received = 9, Lost = 1 (10% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 8ms, Average = 5ms
+
+Pinging mit.edu [104.122.4.43] with 100 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 104.122.4.43:
+    Packets: Sent = 10, Received = 0, Lost = 10 (100% loss),

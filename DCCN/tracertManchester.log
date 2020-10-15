@@ -1,0 +1,16 @@
+
+Tracing route to cs.manchester.ac.uk [130.88.101.49]
+over a maximum of 10 hops:
+
+  1     1 ms     1 ms     1 ms  192.168.2.1 
+  2     3 ms     *        7 ms  1.186.179.1.dvois.com [1.186.179.1] 
+  3     3 ms     3 ms     4 ms  114.79.129.97.dvois.com [114.79.129.97] 
+  4     5 ms     5 ms     5 ms  1.7.160.224 
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+
+Trace complete.

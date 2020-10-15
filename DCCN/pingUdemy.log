@@ -1,0 +1,15 @@
+PING udemy.com (104.16.92.52) 1000(1028) bytes of data.
+1008 bytes from 104.16.92.52 (104.16.92.52): icmp_seq=1 ttl=60 time=21.7 ms
+1008 bytes from 104.16.92.52 (104.16.92.52): icmp_seq=2 ttl=60 time=616 ms
+1008 bytes from 104.16.92.52 (104.16.92.52): icmp_seq=3 ttl=60 time=56.4 ms
+1008 bytes from 104.16.92.52 (104.16.92.52): icmp_seq=4 ttl=60 time=69.8 ms
+1008 bytes from 104.16.92.52 (104.16.92.52): icmp_seq=5 ttl=60 time=11.6 ms
+1008 bytes from 104.16.92.52 (104.16.92.52): icmp_seq=6 ttl=60 time=371 ms
+1008 bytes from 104.16.92.52 (104.16.92.52): icmp_seq=7 ttl=60 time=74.8 ms
+1008 bytes from 104.16.92.52 (104.16.92.52): icmp_seq=8 ttl=60 time=960 ms
+1008 bytes from 104.16.92.52 (104.16.92.52): icmp_seq=9 ttl=60 time=86.8 ms
+1008 bytes from 104.16.92.52 (104.16.92.52): icmp_seq=10 ttl=60 time=9.24 ms
+
+--- udemy.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9009ms
+rtt min/avg/max/mdev = 9.240/227.692/959.570/306.766 ms

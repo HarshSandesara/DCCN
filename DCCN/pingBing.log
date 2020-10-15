@@ -1,0 +1,63 @@
+PING bing.com (13.107.21.200) 100(128) bytes of data.
+108 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=1 ttl=121 time=89.4 ms
+108 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=3 ttl=121 time=1017 ms
+108 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=4 ttl=121 time=47.4 ms
+108 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=5 ttl=121 time=1088 ms
+108 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=6 ttl=121 time=88.3 ms
+108 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=7 ttl=121 time=1014 ms
+108 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=8 ttl=121 time=8.82 ms
+108 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=9 ttl=121 time=327 ms
+108 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=10 ttl=121 time=83.2 ms
+
+--- bing.com ping statistics ---
+10 packets transmitted, 9 received, 10% packet loss, time 9017ms
+rtt min/avg/max/mdev = 8.820/418.058/1087.545/447.678 ms, pipe 2
+
+PING bing.com (204.79.197.200) 100(128) bytes of data.
+108 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=1 ttl=121 time=5.61 ms
+108 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=2 ttl=121 time=4.77 ms
+108 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=3 ttl=121 time=5.22 ms
+108 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=4 ttl=121 time=5.15 ms
+108 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=5 ttl=121 time=5.15 ms
+108 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=6 ttl=121 time=5.69 ms
+108 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=7 ttl=121 time=5.07 ms
+108 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=8 ttl=121 time=4.95 ms
+108 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=9 ttl=121 time=5.26 ms
+108 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=10 ttl=121 time=5.42 ms
+
+--- bing.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9008ms
+rtt min/avg/max/mdev = 4.766/5.228/5.693/0.270 ms
+PING bing.com (13.107.21.200) 500(528) bytes of data.
+508 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=1 ttl=121 time=181 ms
+508 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=2 ttl=121 time=4.97 ms
+508 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=3 ttl=121 time=5.02 ms
+508 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=4 ttl=121 time=5.63 ms
+508 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=5 ttl=121 time=5.21 ms
+508 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=6 ttl=121 time=7.28 ms
+508 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=7 ttl=121 time=5.36 ms
+508 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=8 ttl=121 time=5.37 ms
+508 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=9 ttl=121 time=5.26 ms
+508 bytes from 13.107.21.200 (13.107.21.200): icmp_seq=10 ttl=121 time=4.97 ms
+
+--- bing.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9009ms
+rtt min/avg/max/mdev = 4.967/23.027/181.208/52.730 ms
+PING bing.com (204.79.197.200) 1000(1028) bytes of data.
+1008 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=1 ttl=121 time=6.74 ms
+1008 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=2 ttl=121 time=7.65 ms
+1008 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=3 ttl=121 time=4.89 ms
+1008 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=4 ttl=121 time=5.41 ms
+1008 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=5 ttl=121 time=5.76 ms
+1008 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=6 ttl=121 time=4.87 ms
+1008 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=7 ttl=121 time=5.44 ms
+1008 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=8 ttl=121 time=6.43 ms
+1008 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=9 ttl=121 time=6.40 ms
+1008 bytes from a-0001.a-msedge.net (204.79.197.200): icmp_seq=10 ttl=121 time=5.98 ms
+
+--- bing.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9009ms
+rtt min/avg/max/mdev = 4.870/5.956/7.645/0.825 ms
+PING bing.com (204.79.197.200) 64(92) bytes of data.
+
+

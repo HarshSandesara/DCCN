@@ -1,0 +1,15 @@
+PING coursera.org (13.227.165.82) 500(528) bytes of data.
+508 bytes from server-13-227-165-82.bom51.r.cloudfront.net (13.227.165.82): icmp_seq=1 ttl=247 time=253 ms
+508 bytes from server-13-227-165-82.bom51.r.cloudfront.net (13.227.165.82): icmp_seq=2 ttl=247 time=336 ms
+508 bytes from server-13-227-165-82.bom51.r.cloudfront.net (13.227.165.82): icmp_seq=3 ttl=247 time=131 ms
+508 bytes from server-13-227-165-82.bom51.r.cloudfront.net (13.227.165.82): icmp_seq=4 ttl=247 time=7.21 ms
+508 bytes from server-13-227-165-82.bom51.r.cloudfront.net (13.227.165.82): icmp_seq=5 ttl=247 time=5.41 ms
+508 bytes from server-13-227-165-82.bom51.r.cloudfront.net (13.227.165.82): icmp_seq=6 ttl=247 time=4.82 ms
+508 bytes from server-13-227-165-82.bom51.r.cloudfront.net (13.227.165.82): icmp_seq=7 ttl=247 time=6.63 ms
+508 bytes from server-13-227-165-82.bom51.r.cloudfront.net (13.227.165.82): icmp_seq=8 ttl=247 time=6.44 ms
+508 bytes from server-13-227-165-82.bom51.r.cloudfront.net (13.227.165.82): icmp_seq=9 ttl=247 time=5.34 ms
+508 bytes from server-13-227-165-82.bom51.r.cloudfront.net (13.227.165.82): icmp_seq=10 ttl=247 time=230 ms
+
+--- coursera.org ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 4.815/98.629/336.085/122.489 ms
